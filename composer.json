@@ -1,0 +1,16 @@
+{
+    "name": "ahmed/governer",
+    "description": "package to handle several settings with its services ,migrations,models",
+    "autoload": {
+        "psr-4": {
+            "Ahmed\\Governer\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AhmedFargh",
+            "email": "ahmedgits2001@gmail.com"
+        }
+    ],
+    "require": {}
+}
